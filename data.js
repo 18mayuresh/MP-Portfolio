@@ -144,6 +144,22 @@ const PORTFOLIO_DATA = {
       desc:  "Historical market data analysis of Netflix stock — price trends, volatility metrics, and investment insights using Python and Power BI to understand financial movement patterns.",
       tags:  ["Python", "Power BI", "Finance", "Time-Series"],
       cls:   "p3"
+    },
+    {
+      num:   "04",
+      icon:  "📈",
+      title: "Ola Bookings Analysis",
+      desc:  "Historical market data analysis of Ola bookings — price trends, volatility metrics, and investment insights using Python and Power BI to understand financial movement patterns.",
+      tags:  ["Python", "Power BI", "Finance", "Time-Series"],
+      cls:   "p3"
+    },
+    {
+      num:   "05",
+      icon:  "📈",
+      title: "Market Sales Analysis",
+      desc:  "Historical market data analysis of Netflix stock — price trends, volatility metrics, and investment insights using Python and Power BI to understand financial movement patterns.",
+      tags:  ["Python", "Power BI", "Finance", "Time-Series"],
+      cls:   "p3"
     }
   ],
 
@@ -155,7 +171,7 @@ const PORTFOLIO_DATA = {
   certificates: [
     {
       icon: "🤖", name: "Generative AI",  issuer: "Artificial Intelligence",
-      image: "certificates/generative-ai.svg"
+      image: "certificates/generative-ai.png"
     },
     {
       icon: "💻", name: "C Programming",  issuer: "Programming Fundamentals",
@@ -168,6 +184,10 @@ const PORTFOLIO_DATA = {
     {
       icon: "🔬", name: "Data Science",   issuer: "Analytics & ML",
       image: "certificates/data-science.svg"
+    },
+    {
+      icon: "📊", name: "Bussiness Analyst with Gen-AI",       issuer: "Data Visualisation",
+      image: "certificates/Business Analyst.png"
     },
   ],
 
