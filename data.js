@@ -148,17 +148,17 @@ const PORTFOLIO_DATA = {
     {
       num:   "04",
       icon:  "📈",
-      title: "Ola Bookings Analysis",
-      desc:  "Historical market data analysis of Ola bookings — price trends, volatility metrics, and investment insights using Python and Power BI to understand financial movement patterns.",
-      tags:  ["Python", "Power BI", "Finance", "Time-Series"],
+      title: "Ola Ride-Bookings Analysis",
+      desc:  "Developed an interactive ride-booking analytics dashboard using Power BI, SQL, and Pandas to analyze booking trends, revenue, cancellations, vehicle performance, and customer behavior. Created dynamic visualizations, KPI cards, and date filters for real-time business insights and data-driven decision-making.",
+      tags:  ["Python", "Power BI", "SQL"],
       cls:   "p3"
     },
     {
       num:   "05",
-      icon:  "📈",
+      icon:  "📊",
       title: "Market Sales Analysis",
-      desc:  "Historical market data analysis of Netflix stock — price trends, volatility metrics, and investment insights using Python and Power BI to understand financial movement patterns.",
-      tags:  ["Python", "Power BI", "Finance", "Time-Series"],
+      desc:  "Developed an interactive Sales Dashboard using Tableau to analyze sales performance, customer behavior, and payment trends. Designed dynamic visualizations including KPI cards, treemaps, bar charts, line charts, and pie charts to track sales by category, mall, gender, payment mode, and monthly invoices. Improved business insights and decision-making through data-driven reporting and dashboard storytelling.",
+      tags:  ["Tableau"],
       cls:   "p3"
     }
   ],
